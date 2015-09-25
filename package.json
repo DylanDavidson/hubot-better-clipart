@@ -1,24 +1,25 @@
 {
-  "name": "hubot-clipart",
-  "description": "A Hubot script posts clip art images from openclipart.org API",
-  "version": "1.0.1",
-  "author": "Desmond Morris <hi@desmondmorris.com>",
+  "name": "hubot-better-clipart",
+  "description": "A better Hubot script posts clip art images from openclipart.org API",
+  "version": "1.0.0",
+  "author": "Dylan Davidson <ddavidson621@gmail.com>",
   "license": "MIT",
 
   "keywords": [
     "hubot",
     "hubot-scripts",
     "clipart",
-    "openclipart"
+    "openclipart",
+    "better-clipart"
   ],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/DoSomething/hubot-clipart.git"
+    "url": "git://github.com/DylanDavidson/hubot-better-clipart.git"
   },
 
   "bugs": {
-    "url": "https://github.com/DoSomething/hubot-clipart/issues"
+    "url": "https://github.com/DylanDavidson/hubot-better-clipart/issues"
   },
 
   "dependencies": {
