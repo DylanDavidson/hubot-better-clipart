@@ -1,7 +1,7 @@
 {
   "name": "hubot-better-clipart",
   "description": "A better Hubot script posts clip art images from openclipart.org API",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Dylan Davidson <ddavidson621@gmail.com>",
   "license": "MIT",
 
