@@ -2,11 +2,7 @@
 #   Returns clip art images from openclipart.org API.
 #
 # Commands:
-#   hubot clipart me <query> - Queries openclipart for <query> and returns a random result.
-#   Aliases:
-#     hubot clipart <query>
-#     hubot clip me <query>
-#     hubot clip <query>
+#   hubot clipart <query> - Queries openclipart for <query> and returns a random result.
 #
 # Author:
 #   Original - desmondmorris
